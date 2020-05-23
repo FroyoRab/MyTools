@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e3ac1ef-d330-4442-be48-52e76d4ad023" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/getInfo.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1c7VApF6I0SFsU6Y6nhZirATRKG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python._main_">
+    <configuration name="_main_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exlCount" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_main_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getInfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exlCount" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._main_" />
+        <item itemvalue="Python.getInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e3ac1ef-d330-4442-be48-52e76d4ad023" name="Default Changelist" comment="" />
+      <created>1589879479160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589879479160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1066" y="206" key="#Inspections" timestamp="1589881770948">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1066" y="206" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1589881770948" />
+    <state width="1362" height="309" key="GridCell.Tab.0.bottom" timestamp="1589894913985">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589894913985" />
+    <state width="1362" height="309" key="GridCell.Tab.0.center" timestamp="1589894913984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="309" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589894913984" />
+    <state width="1362" height="309" key="GridCell.Tab.0.left" timestamp="1589894913984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="309" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589894913984" />
+    <state width="1362" height="309" key="GridCell.Tab.0.right" timestamp="1589894913985">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="309" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589894913985" />
+    <state width="1362" height="309" key="GridCell.Tab.1.bottom" timestamp="1589894913985">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="309" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589894913985" />
+    <state width="1362" height="309" key="GridCell.Tab.1.center" timestamp="1589894913985">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="309" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589894913985" />
+    <state width="1362" height="309" key="GridCell.Tab.1.left" timestamp="1589894913985">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="309" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589894913985" />
+    <state width="1362" height="309" key="GridCell.Tab.1.right" timestamp="1589894913985">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="309" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589894913985" />
+    <state x="895" y="168" key="SettingsEditor" timestamp="1589895077693">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="895" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589895077693" />
+    <state width="700" height="477" key="XDebugger.FullValuePopup" timestamp="1589889450107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="700" height="477" key="XDebugger.FullValuePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1589889450107" />
+    <state x="911" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589883528103">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="911" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1589883528103" />
+    <state x="973" y="256" width="672" height="160" key="search.everywhere.popup" timestamp="1589891672745">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="973" y="256" width="672" height="160" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589891672745" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getInfo.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
