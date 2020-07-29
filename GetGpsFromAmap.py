@@ -46,7 +46,10 @@ class GetGpsFromAmap:
         request = requests.get(url=self._url)
         request = json.loads(request.text)
         self.allAnswers = request["pois"]
-        return request["pois"][whichOne]
+        try:
+            return request["pois"][whichOne]
+        except IndexError:
+            return request["sug_address"]
 
     def getAddress(self,whichOne=0):
         '''
