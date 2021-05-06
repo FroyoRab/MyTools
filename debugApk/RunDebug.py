@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # @Time      :2020/4/9 下午 12:32
 # @File      :RunDebug.py
 import os
@@ -33,7 +32,7 @@ class debugApk:
     def __getInfo(self):
         cmd = "aapt2 d badging {}".format(apkPath)
         out = os.popen(cmd)
-        out = out.read().split("\n")
+        out = out.buffer.read().decode('utf-8').split("\n")
         # 将信息分割
         for index, line in enumerate(out):
             out[index] = line.split("\'")
