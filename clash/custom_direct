@@ -1,0 +1,7 @@
+payload:
+# >> direct
+# > splunk
+  - DOMAIN-KEYWORD,splunk,DIRECT
+  - DOMAIN-SUFFIX,splkmobile.com,DIRECT
+# > amap
+  - DOMAIN-SUFFIX,amap.com,DIRECT
